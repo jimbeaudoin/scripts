@@ -1,10 +1,6 @@
 #!/bin/sh
 set -e
-#
-# This script is meant for quick & easy install via:
-#   'curl -sSL https://get.docker.com/ | sh'
-# or:
-#   'wget -qO- https://get.docker.com/ | sh'
+
 
 
 url='https://get.docker.com/'
