@@ -67,7 +67,7 @@
 NAME="nginx"
 
 # Absolute path to the executable.
-DAEMON="/usr/sbin/${NAME}"
+DAEMON="/usr/local/sbin/${NAME}"
 
 # Arguments that should be passed to the executable.
 DAEMON_ARGS=""
